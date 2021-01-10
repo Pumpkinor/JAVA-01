@@ -17,6 +17,6 @@
 4. 检查一下自己维护的业务系统的 JVM 参数配置，用 jstat 和 jstack、jmap 查看一下
   详情，并且自己独立分析一下大概情况，思考有没有不合理的地方，如何改进。
   注意：如果没有线上系统，可以自己 run 一个 web/java 项目。
-  [作业4-系统JVM分析-查看链接](./code/homework/作业4-系统JVM分析.md)
+    [作业4-系统JVM分析-查看链接](./code/homework/%E4%BD%9C%E4%B8%9A4-%E7%B3%BB%E7%BB%9FJVM%E5%88%86%E6%9E%90.md)
   //TODO 去公司分析现有的check项目
 
